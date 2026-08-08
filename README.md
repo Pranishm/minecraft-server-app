@@ -1,83 +1,87 @@
-<div align="center">
-
 # 🎮 VANAKAMSMPs
 
 ### The Ultimate Minecraft Server Community App
 
-<p align="center">
-  <img src="assets/images/logo.png" width="140" alt="VANAKAMSMPs Logo">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter">
-  <img src="https://img.shields.io/github/v/release/Pranishm/minecraft-server-app?style=for-the-badge">
-  <img src="https://img.shields.io/github/downloads/Pranishm/minecraft-server-app/total?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/Pranishm/minecraft-server-app?style=for-the-badge">
-</p>
-
-<p align="center">
-  Modern • Fast • Secure • Community Driven
-</p>
+[![GitHub Release](https://img.shields.io/github/v/release/Pranishm/minecraft-server-app?label=Latest%20Release&style=for-the-badge)](https://github.com/Pranishm/minecraft-server-app/releases/latest)
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?style=for-the-badge&logo=firebase)](https://firebase.google.com)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
 
 ## 🚀 Live Preview
 
-<p align="center">
-  <video src="https://www.image2url.com/r2/default/videos/1786199104320-e800ae95-25cd-4d15-8ab1-5ed99115d202.mp4" width="900" autoplay loop muted playsinline></video>
-</p>
+🎬 **VANAKAMSMPs App Preview**
+
+[▶️ Watch the App Preview](https://www.image2url.com/r2/default/videos/1786199104320-e800ae95-25cd-4d15-8ab1-5ed99115d202.mp4)
+
+> 🎮 A short preview of the VANAKAMSMPs Minecraft community application.
 
 ---
 
 # 📱 About
 
-VANAKAMSMPs is the official companion application for the VANAKAMSMPs Minecraft Network.
+**VANAKAMSMPs** is the official companion application for the **VANAKAMSMPs Minecraft Network**.
 
-Manage your account, stay connected with the community, view live server status, receive announcements, participate in events, and much more—all from one place.
+Manage your account, stay connected with the community, view live server status, receive announcements, participate in events, and much more — all from one place.
+
+The app combines a modern **Material 3 interface** with a Minecraft-inspired design to provide a fast, smooth, and engaging experience for the VANAKAMSMPs community.
 
 ---
 
 # ✨ Features
 
-✅ Google Login
+### 🔐 Authentication
 
-✅ Secure Authentication
+- ✅ Google Login
+- ✅ Secure Authentication
+- ✅ Profile Management
 
-✅ Server Status
+### 🎮 Minecraft Server
 
-✅ Player Count
+- ✅ Live Server Status
+- ✅ Real-Time Player Count
+- ✅ Server Information
+- ✅ Minecraft Community Integration
 
-✅ Live News
+### 📰 Community
 
-✅ Events
+- ✅ Live News
+- ✅ Events
+- ✅ Giveaways
+- ✅ Community Chat
+- ✅ Push Notifications
 
-✅ Giveaways
+### 🧩 App Features
 
-✅ Community Chat
-
-✅ Push Notifications
-
-✅ Profile Management
-
-✅ Widgets
-
-✅ QR Features
-
-✅ Fast Performance
-
-✅ Beautiful Material 3 UI
+- ✅ Widgets
+- ✅ QR Features
+- ✅ Automatic Updates
+- ✅ Fast Performance
+- ✅ Responsive UI
+- ✅ Material 3 Design
+- ✅ Dark Theme
+- ✅ Smooth Animations
 
 ---
 
 # 📷 Screenshots
 
+## 🏠 Home
+
 | Home | Server | Events |
-|------|--------|--------|
-| ![](screenshots/home.png) | ![](screenshots/server.png) | ![](screenshots/events.png) |
+|:---:|:---:|:---:|
+| 📱 | 📱 | 📱 |
+| *Coming Soon* | *Coming Soon* | *Coming Soon* |
+
+## 👤 User & Settings
 
 | Profile | Chat | Settings |
-|------|--------|--------|
-| ![](screenshots/profile.png) | ![](screenshots/chat.png) | ![](screenshots/settings.png) |
+|:---:|:---:|:---:|
+| 📱 | 📱 | 📱 |
+| *Coming Soon* | *Coming Soon* | *Coming Soon* |
+
+> 📸 Screenshots will be added soon.
 
 ---
 
@@ -85,62 +89,27 @@ Manage your account, stay connected with the community, view live server status,
 
 ## Latest Release
 
-➡️ https://github.com/Pranishm/minecraft-server-app/releases/latest
+Download the latest version of **VANAKAMSMPs** from GitHub Releases.
+
+### 👉 [Download Latest APK](https://github.com/Pranishm/minecraft-server-app/releases/latest)
 
 ---
 
 # 🔄 In-App Updates
 
-The application supports automatic update detection.
+VANAKAMSMPs supports automatic update detection.
 
-When a new version is released:
-
-✔ Detects new version
-
-✔ Downloads APK
-
-✔ Opens installer
-
-✔ Cleans downloaded APK after installation
-
----
-
-# 🛠 Built With
-
-- Flutter
-- Riverpod
-- Firebase
-- Dio
-- Material 3
-- WorkManager
-- Google Sign-In
-
----
-
-# 📦 Installation
-
-Download the latest APK from Releases.
-
-Enable Settings → Install Unknown Apps
-
-Install APK.
-
-Launch VANAKAMSMPs.
-
-Enjoy.
-
----
-
-# 📂 Project Structure
+When a new version is released, the application can:
 
 ```text
-lib/
-├── app.dart
-├── main.dart
-├── screens/
-├── widgets/
-├── services/
-├── providers/
-├── models/
-├── utils/
-└── theme/
+New Version Available
+        ↓
+Detect Update
+        ↓
+Download APK
+        ↓
+Open Android Installer
+        ↓
+Install Update
+        ↓
+Clean Downloaded APK
