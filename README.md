@@ -5,7 +5,7 @@
 ### The Ultimate Minecraft Server Community App
 
 <p align="center">
-  <img src="assets/images/logo.png" width="140" alt="VANAKAMSMPs Logo">
+  <img src="[assets/images/logo.png](https://www.image2url.com/r2/default/videos/1786199104320-e800ae95-25cd-4d15-8ab1-5ed99115d202.mp4)" width="140" alt="VANAKAMSMPs Logo">
 </p>
 
 <p align="center">
