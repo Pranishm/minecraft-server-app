@@ -27,7 +27,7 @@
 
 <!-- Replace with your GIF -->
 
-<img src="https://placehold.co/900x500?text=VANAKAMSMPs+Demo+GIF](https://www.image2url.com/r2/default/videos/1786199104320-e800ae95-25cd-4d15-8ab1-5ed99115d202.mp4" width="900"/>
+<img src="https://www.image2url.com/r2/default/videos/1786199104320-e800ae95-25cd-4d15-8ab1-5ed99115d202.mp4" width="900"/>
 
 </p>
 
