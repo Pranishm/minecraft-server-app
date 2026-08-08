@@ -5,18 +5,18 @@
 ### The Ultimate Minecraft Server Community App
 
 <p align="center">
-  <img src="assets/images/logo.png" width="140" alt="VANAKAMSMPs Logo">
+  <img src="[assets/images/logo.png](https://www.image2url.com/r2/default/videos/1786199104320-e800ae95-25cd-4d15-8ab1-5ed99115d202.mp4)" width="140" alt="VANAKAMSMPs Logo">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter">
-  <img src="https://img.shields.io/github/v/release/Pranishm/minecraft-server-app?style=for-the-badge">
-  <img src="https://img.shields.io/github/downloads/Pranishm/minecraft-server-app/total?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/Pranishm/minecraft-server-app?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter">
+  <img src="https://img.shields.io/github/v/release/Pranishm/minecraft-server-app?style=for-the-badge">
+  <img src="https://img.shields.io/github/downloads/Pranishm/minecraft-server-app/total?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Pranishm/minecraft-server-app?style=for-the-badge">
 </p>
 
 <p align="center">
-  Modern • Fast • Secure • Community Driven
+  Modern • Fast • Secure • Community Driven
 </p>
 
 ---
@@ -24,9 +24,11 @@
 ## 🚀 Live Preview
 
 <p align="center">
-  <video src="https://www.image2url.com/r2/default/videos/1786199104320-e800ae95-25cd-4d15-8ab1-5ed99115d202.mp4" width="900" controls="controls" autoplay="autoplay" muted="muted" loop="loop">
-    Your browser does not support the video tag.
-  </video>
+
+<!-- Replace with your GIF -->
+
+<img src="[https://placehold.co/900x500?text=VANAKAMSMPs+Demo+GIF](https://www.image2url.com/r2/default/videos/1786199104320-e800ae95-25cd-4d15-8ab1-5ed99115d202.mp4)" width="900"/>
+
 </p>
 
 ---
@@ -123,7 +125,9 @@ When a new version is released:
 
 Download the latest APK from Releases.
 
-Enable Settings → Install Unknown Apps.
+Enable
+
+Settings → Install Unknown Apps
 
 Install APK.
 
@@ -137,12 +141,97 @@ Enjoy.
 
 ```text
 lib/
+
 ├── app.dart
 ├── main.dart
+
 ├── screens/
+
 ├── widgets/
+
 ├── services/
+
 ├── providers/
+
 ├── models/
+
 ├── utils/
+
 └── theme/
+```
+
+---
+
+# 🎨 UI
+
+- Material 3
+
+- Dark Theme
+
+- Smooth Animations
+
+- Modern Cards
+
+- Responsive Layout
+
+---
+
+# 🚀 Roadmap
+
+- [x] Authentication
+
+- [x] Home
+
+- [x] Events
+
+- [x] Widgets
+
+- [ ] Community Chat
+
+- [ ] Voice Chat
+
+- [ ] Marketplace
+
+- [ ] Live Maps
+
+- [ ] Minecraft Skin Viewer
+
+- [ ] Leaderboards
+
+---
+
+# ❤️ Support
+
+If you like this project please give it a ⭐ on GitHub.
+
+It helps a lot.
+
+---
+
+# 👨‍💻 Developer
+
+**Pranish**
+
+GitHub
+
+https://github.com/Pranishm
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for using VANAKAMSMPs ⭐
+
+Made with ❤️ using Flutter
+
+</div>
+
+https://www.image2url.com/r2/default/videos/1786199104320-e800ae95-25cd-4d15-8ab1-5ed99115d202.mp4
+
+add this
