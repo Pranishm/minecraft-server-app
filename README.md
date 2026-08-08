@@ -24,7 +24,7 @@
 ## 🚀 Live Preview
 
 <p align="center">
-  <video src="https://toxic-blush-povyi84x.edgeone.dev/" width="900" autoplay loop muted playsinline></video>
+  <img src="preview.gif" width="900" alt="Live Preview">
 </p>
 
 ---
