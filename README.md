@@ -1,62 +1,58 @@
 <div align="center">
 
-<!-- ✨ Logo / Banner ✨ -->
+<!-- ✨ SYSTEM.HEADER ✨ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/images/logo.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/images/logo.png">
-  <img src="assets/images/logo.png" alt="VANAKAMSMPs Logo" width="160"/>
+  <img src="assets/images/logo.png" alt="VANAKAMSMPs Logo" width="140" style="margin-bottom: 15px;"/>
 </picture>
 
-<h1>🎮 VANAKAMSMPs</h1>
-<p><b>The Ultimate Companion App for the VANAKAMSMPs Minecraft Network</b></p>
+<h1 style="color: #22D3EE; font-family: monospace;">[ VANAKAMSMPs_NETWORK_APP ]</h1>
+<p><b>SYSTEM.UI // The Ultimate Minecraft Community Interface</b></p>
 
 <p>
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.x-8b5cf6?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
-  <a href="https://github.com/Pranishm/minecraft-server-app/releases"><img src="https://img.shields.io/github/v/release/Pranishm/minecraft-server-app?style=for-the-badge&color=ff7eb6" alt="Release"></a>
-  <a href="https://github.com/Pranishm/minecraft-server-app/releases"><img src="https://img.shields.io/github/downloads/Pranishm/minecraft-server-app/total?style=for-the-badge&color=e879f9" alt="Downloads"></a>
-  <a href="https://github.com/Pranishm/minecraft-server-app/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Pranishm/minecraft-server-app?style=for-the-badge&color=c084fc" alt="License"></a>
-</p>
-
-<p>
-  <a href="#-about--features">Features</a> •
-  <a href="#-live-preview">Preview</a> •
-  <a href="#-screenshots">Screenshots</a> •
-  <a href="#-installation">Install</a> •
-  <a href="#-tech-stack">Tech Stack</a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/FLUTTER-3.x-22D3EE?style=for-the-badge&logo=flutter&logoColor=0A101F" alt="Flutter"></a>
+  <a href="https://github.com/Pranishm/minecraft-server-app/releases"><img src="https://img.shields.io/github/v/release/Pranishm/minecraft-server-app?style=for-the-badge&color=A78BFA&label=BUILD" alt="Release"></a>
+  <a href="https://github.com/Pranishm/minecraft-server-app/releases"><img src="https://img.shields.io/github/downloads/Pranishm/minecraft-server-app/total?style=for-the-badge&color=10B981&label=PULLS" alt="Downloads"></a>
+  <a href="https://github.com/Pranishm/minecraft-server-app/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Pranishm/minecraft-server-app?style=for-the-badge&color=0A101F" alt="License"></a>
 </p>
 
 </div>
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td width="38%" align="center" valign="middle">
+---
 
-<!-- 📱 Live Preview GIF -->
-<img src="preview.gif" alt="App Live Preview" width="300" style="border-radius: 12px;"/>
+### 🟢 `SYS.INFO` // OVERVIEW & ARCHITECTURE
+
+<table align="center" width="100%" style="border-collapse: collapse;">
+<tr>
+<td width="40%" align="center" valign="middle" style="background-color: #0A101F; border: 1px solid #334155; padding: 10px;">
+
+<!-- VISUAL.MAP (Live Preview) -->
+<b style="color: #A78BFA; font-family: monospace;">> VISUAL.MAP --live</b><br><br>
+<img src="preview.gif" alt="Live Preview" width="280" style="border-radius: 8px; border: 1px solid #22D3EE;"/>
 
 </td>
-<td width="62%" valign="top">
+<td width="60%" valign="top" style="padding-left: 20px;">
 
-### 🌸 About VANAKAMSMPs
+<h3 style="color: #22D3EE; margin-top: 0;">> CORE.MODULES</h3>
 
-The official companion application for the VANAKAMSMPs Minecraft Network. Manage your account, check server status, and stay connected with the community directly from your phone. Built to interface seamlessly with our optimized Ubuntu backend.
-
-### ✨ Key Features
-
-| ⚙️ Feature | 📱 Description |
-|:---|:---|
-| 🔐 **Secure Auth** | Integrated Google Sign-In & Profiles |
-| 📊 **Live Status** | Real-time server health & player tracking |
-| 📰 **Community** | Live news, events, and exclusive giveaways |
-| 💬 **Engagement** | Global chat & instant push notifications |
-| 🔄 **OTA Updates** | Background APK auto-updating system |
-| 🎨 **Material 3** | Smooth animations & custom dark theme |
+VANAKAMSMPs is the official, high-performance companion interface for the VANAKAMSMPs Minecraft Network. Engineered to provide seamless data sync between the game server and mobile clients.
 
 <br/>
 
-> 💗 *"Connecting the VANAKAMSMPs community, one block at a time."*
+| `<module>` | `<description>` |
+|:---|:---|
+| `auth.service` | Secure Google Sign-In & token management |
+| `telemetry.sys` | Real-time server health & player count tracking |
+| `comms.net` | Global community chat & live push notifications |
+| `events.mgr` | Automated giveaways & scheduled server events |
+| `ota.updater` | Background APK auto-detection & patching |
+| `ui.render` | Material 3 engine with custom dark aesthetics |
+
+<br/>
+
+> 💬 *"Execute connection. Play together."*
 
 </td>
 </tr>
@@ -64,80 +60,45 @@ The official companion application for the VANAKAMSMPs Minecraft Network. Manage
 
 <br/>
 
+---
+
+### 🟢 `VISUAL.ASSETS` // INTERFACE RENDERS
+
 <div align="center">
-
-### 📸 App Screenshots
-
-<table align="center">
-  <tr>
-    <td align="center"><b>🏠 Home</b></td>
-    <td align="center"><b>🖥️ Server</b></td>
-    <td align="center"><b>📅 Events</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/home.png" width="230" alt="Home Screen"/></td>
-    <td><img src="screenshots/server.png" width="230" alt="Server Screen"/></td>
-    <td><img src="screenshots/events.png" width="230" alt="Events Screen"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>👤 Profile</b></td>
-    <td align="center"><b>💬 Chat</b></td>
-    <td align="center"><b>⚙️ Settings</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/profile.png" width="230" alt="Profile Screen"/></td>
-    <td><img src="screenshots/chat.png" width="230" alt="Chat Screen"/></td>
-    <td><img src="screenshots/settings.png" width="230" alt="Settings Screen"/></td>
-  </tr>
-</table>
-
-<br/><br/>
-
-### 📦 Installation
-
-<a href="https://github.com/Pranishm/minecraft-server-app/releases/latest"><img src="https://img.shields.io/badge/Download_Latest_APK-ff7eb6?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/></a>
-
-**1.** Download the latest APK from Releases.<br>
-**2.** Go to Settings → Security → Enable **Install Unknown Apps**.<br>
-**3.** Install the APK and launch **VANAKAMSMPs**.<br>
-*Note: The app supports automatic in-app updates for future releases.*
-
-<br/><br/>
-
-### 🚀 Roadmap
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranishm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranishm/output/github-contribution-grid-snake-light.svg">
-</picture>
-
-| Milestone | Status | Details |
-|:---|:---:|:---|
-| Authentication & UI | ✅ | Google Login, Material 3, Dark Mode |
-| Dashboard & Events | ✅ | Live Player Count, News, OS Widgets |
-| Communication | ⏳ | Community Chat, Voice Chat |
-| Utility | ⏳ | Live Server Maps, Minecraft Skin Viewer |
-| Engagement | ⏳ | Leaderboards, In-App Marketplace |
-
-<br/><br/>
-
-### 💻 Tech Stack
-
-<img src="https://img.shields.io/badge/Flutter-8b5cf6?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Dart-ff7eb6?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/Firebase-e879f9?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Riverpod-c084fc?style=flat-square&logo=react&logoColor=white" alt="Riverpod"/>
-<img src="https://img.shields.io/badge/Dio-8b5cf6?style=flat-square&logo=json&logoColor=white" alt="Dio"/>
-
-<br/><br/>
-
-### 📫 Let's Connect
-
-<a href="https://github.com/Pranishm"><img src="https://img.shields.io/badge/Developer-Pranish_M-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/Pranishm/minecraft-server-app/issues"><img src="https://img.shields.io/badge/Report_a_Bug-ff7eb6?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/></a>
+  <table style="border: 1px solid #334155;">
+    <tr style="background-color: #0A101F; color: #22D3EE; font-family: monospace;">
+      <td align="center"><b>/home</b></td>
+      <td align="center"><b>/server_status</b></td>
+      <td align="center"><b>/events</b></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/home.png" width="250" alt="Home Screen"/></td>
+      <td><img src="screenshots/server.png" width="250" alt="Server Screen"/></td>
+      <td><img src="screenshots/events.png" width="250" alt="Events Screen"/></td>
+    </tr>
+    <tr style="background-color: #0A101F; color: #A78BFA; font-family: monospace;">
+      <td align="center"><b>/user_profile</b></td>
+      <td align="center"><b>/community_chat</b></td>
+      <td align="center"><b>/sys_settings</b></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/profile.png" width="250" alt="Profile Screen"/></td>
+      <td><img src="screenshots/chat.png" width="250" alt="Chat Screen"/></td>
+      <td><img src="screenshots/settings.png" width="250" alt="Settings Screen"/></td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
-*⭐️ Always learning, always building. If you like this project, consider leaving a star!* 💗
+---
 
-</div>
+### 🟢 `EXECUTE.INSTALL` // DEPLOYMENT
+
+<a href="https://github.com/Pranishm/minecraft-server-app/releases/latest"><img src="https://img.shields.io/badge/wget_LATEST_APK-22D3EE?style=for-the-badge&logo=android&logoColor=0A101F" alt="Download APK"/></a>
+
+```bash
+# 1. Fetch latest release from the repository
+# 2. Navigate to device Settings -> Security
+# 3. Grant [Install Unknown Apps] permissions
+# 4. Execute APK and initialize VANAKAMSMPs
